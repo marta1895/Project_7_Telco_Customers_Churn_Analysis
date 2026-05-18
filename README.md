@@ -20,7 +20,7 @@ The goal: identify which customers are most likely to churn, why, and what the b
 ```
 ├── Telco_Customer_Churn.ipynb     # Data cleaning and EDA
 ├── telco_customers_churn.sql      # SQL analysis (5 sections)
-├── telco_customers_churn.twbx     # Tableau workbook
+├── Telco_customers_churn.twbx     # Tableau workbook
 ├── telco_dashboard.png            # Dashboard screenshot
 └── README.md
 ```
