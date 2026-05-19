@@ -18,6 +18,7 @@ The goal: identify which customers are most likely to churn, why, and what the b
 
 ## Project Structure
 ```
+telco-churn-analysis/
 ├── Telco_Customer_Churn.ipynb     # Data cleaning and EDA
 ├── telco_customers_churn.sql      # SQL analysis (5 sections)
 ├── Telco_customers_churn.twbx     # Tableau workbook
